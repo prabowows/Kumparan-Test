@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kumparan Skill Test</string>
+    <string name="title_activity_new_main">MainActivity</string>
+    <string name="action_see_author"><u>Click Here for Author Info</u></string>
+</resources>
