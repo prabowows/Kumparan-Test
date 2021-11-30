@@ -22,10 +22,6 @@ import com.bumptech.glide.request.target.Target
 import com.bumptech.glide.request.transition.Transition
 import com.github.chrisbanes.photoview.PhotoView
 
-
-
-
-
 object Helper {
     fun ViewGroup.inflate(layoutRes: Int): View {
         return LayoutInflater.from(context).inflate(layoutRes, this, false)
